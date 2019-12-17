@@ -1,2 +1,2 @@
 # tribute-page
-This is a tribute page example with static html mained and plain css.
+This is a tribute page example with static html mained via plain css.
