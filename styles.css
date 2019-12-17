@@ -58,6 +58,7 @@ a:active {
     color: #969696;
 }
 img {
+    display: block;
     height: auto;
     max-width: 100%;
 }
