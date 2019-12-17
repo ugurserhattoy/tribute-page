@@ -2,8 +2,12 @@
     margin: auto;
     max-width: 800px;
 }
-body{
+main {
     background-color: #3E3428;
+}
+body{
+    background-color: #1A1B1B;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 header {
     background-color: #3E3428;
@@ -23,14 +27,26 @@ header > p {
     font-style: oblique;
 }
 #img-div {
-    background-color: #393A3A;
+    background-color: #FBFEF3;
     margin: auto;
-    padding: 16px 0px 16px 0px;
+    padding: 16px;
     text-align: center;
+    max-width: 370px;
 }
 figcaption {
-    color: #FBFEF3;
+    color: #393A3A;
     font-style: italic;
     font-size: 10pt;
-    max-width: 600px;
+    max-width: 370px;
+}
+#tribute-info {
+    color: #FBFEF3;
+    max-width: 480px;
+}
+li {
+    padding: 16px;
+}
+#here-is {
+    text-align: center;
+    padding-top: 16px;
 }
